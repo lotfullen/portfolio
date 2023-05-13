@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+    background-color: #A4A0A2;
+}
+
+main {
+    margin-top:100px;
+    background-color: #A09FDA;
+    height: 80vw;
+}
+
+.i {
+    position: absolute;
+    top: 0px;
+    font-size: 9.4vw;
+    margin: 0;
+    padding: 0;
+}
+
+.bikee {
+    float: right ;
+}
+
+.music {
+    float: left ;
+}
+
