@@ -1,0 +1,72 @@
+body {
+    font-family: sans-serif;
+    background-color: #A4A0A2;
+}
+
+main {
+    margin-top:100px;
+    background-color: #A09FDA;
+    height: 80vw;
+}
+
+.i {
+    position: absolute;
+    top: 0px;
+    font-size: 9.4vw;
+    margin: 0;
+    padding: 0;
+}
+
+.l {
+    text-align: center;
+    font-size: vw;
+    background-color:#94FF00 ;
+    width: 270px;
+    color: aliceblue;
+}
+
+.ll {
+    text-align: center;
+    padding-top: 8vw;
+   
+    font-size: 7.4vw;
+    height: 20vw;
+    background: linear-gradient(130.95deg, rgba(0, 10, 255, 0.2) 11.61%, rgba(255, 0, 0, 0.2) 89.71%), #C70606;
+    position: absolute;
+    top: 30vw;
+    left:20vw;
+
+}
+
+.a2 {
+    text-align: center;
+    padding-top: 8vw;
+   
+    font-size: 7.4vw;
+    height: 20vw;
+    background: linear-gradient(130.95deg, rgba(0, 10, 255, 0.2) 11.61%, rgba(255, 0, 0, 0.2) 89.71%), #C70606;
+    position: absolute;
+    top: 30vw;
+    left: 60vw;
+
+}
+
+.lll{
+    font-size: 6.8vw;
+}
+
+img {
+    width: 40px;
+}
+
+.i1 {
+    float: left ;
+ 
+}
+
+.i2 {
+    float: left ;
+    
+   
+}
+
